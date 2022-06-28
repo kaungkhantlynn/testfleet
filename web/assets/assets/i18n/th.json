@@ -1,0 +1,13 @@
+{
+  "welcome_text" : "นวัตกรรมทางเทคโนโลยีที่เหนือกว่า",
+  "login" : {
+    "submit_text" : "เข้าสู่ระบบ",
+    "remember_text" : "จดจำฉัน",
+    "email_hint" : "บัญชีผู้ใช้งาน",
+    "password_hint" : "รหัสผ่าน"
+  },
+  "driver" : {
+    "today" : "วันนี้",
+    "new_assignment": "ได้รับมอบหมายงานใหม่"
+  }
+}
